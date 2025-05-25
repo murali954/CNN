@@ -1,0 +1,17 @@
+{
+    "evaluation_summary": {
+        "dataset_size": 1000,
+        "total_predictions": 5432,
+        "total_ground_truths": 4987
+    },
+    "performance_metrics": {
+        "mean_precision": 0.7234,
+        "mean_recall": 0.6891,
+        "f1_score": 0.7058,
+        "mAP": 0.6745
+    },
+    "inference_metrics": {
+        "average_inference_time_seconds": 0.0234,
+        "fps": 42.73
+    }
+}
